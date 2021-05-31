@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on React Projects
-- 📫 React me via Discord || Email
+- 📫 Reach me via Discord || Email
